@@ -1,0 +1,9 @@
+.homeContainer{
+    width: auto;
+}
+.circleHolder {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+}
